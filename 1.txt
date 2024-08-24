@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file1_branch1
+=======
+file1_folder1_branch2
+>>>>>>> branch2

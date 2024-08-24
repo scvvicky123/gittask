@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 file8_branch1
+=======
+file8_folder2_branch2
+>>>>>>> branch2
 
